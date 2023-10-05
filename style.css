@@ -61,9 +61,10 @@ li {
 }
 .quotefont{
     font-family: sleeklight;
-    color: #F46060 ;
+    color: #593633 ;
     font-weight: 900; 
     font-size: 1.6rem;
+    text-shadow: 1px 1px 2px #bd9898;
 }
 .flex {
     display: flex;
@@ -157,11 +158,11 @@ li::before {
     margin-top: 2rem;
     font-size: 1.2rem;
     font-weight: 600;
-    color: #242424 ;
+    color: #141414 ;
 }
 .footer{
     min-height: 10rem;
-    background-color: #F46060;
+    background-color: #593633;
     text-align: center;
 }
 .read-more{
