@@ -1,7 +1,7 @@
 # Tribute-Page-Kalpana-Chawla
 A tribute page dedicated to the inspiring astronaut, Kalpana Chawla. This project aims to honor her remarkable life and achievements in the field of space exploration.
 
-** Link to project : ** 
+**Link to project : **
 https://nkhanna94.github.io/https---github.com-nkhanna94-Tribute-Page-Kalpana-Chawla/
 
 **About Kalpana Chawla**
