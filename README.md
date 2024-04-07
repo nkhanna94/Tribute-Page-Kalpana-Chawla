@@ -14,5 +14,4 @@ Stunning images and multimedia elements to enhance the user experience.
 
 **Technologies Used** : HTML CSS
 
-**How to Contribute**
-Contributions are welcome! If you'd like to improve this tribute page or have suggestions for additional features, please fork this repository and create a pull request.
+
